@@ -189,6 +189,7 @@ namespace занятие2
             else 
             {
                 Console.WriteLine($"Сегодня {WeekDay}");
-        }   
+            }   
+            */
     }
 }
